@@ -22,6 +22,16 @@
             }
           },
           {
+            "id": "d234d419450a345c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
             "id": "8426927ca9afc4fd",
             "type": "leaf",
             "state": {
@@ -98,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bf76080afbf627f2",
@@ -201,13 +210,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8426927ca9afc4fd",
+  "active": "31eaa1a397f3bf77",
   "lastOpenFiles": [
     "NumberMethods.md",
     "NM-LAB1.md",
+    "Drawing 2026-09-19 13.23.18.excalidraw.md",
     "_INDEX_.md",
     "Images",
     "Images/Pasted image 20260916225606.png",
