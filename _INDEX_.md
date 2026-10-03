@@ -8,3 +8,5 @@ Welcome to the future.
 # [[MachineLearning]]
 
 # [[DataBases]]
+
+# [[2COURSE_LABS]]
