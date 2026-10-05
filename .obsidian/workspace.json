@@ -49,8 +49,7 @@
               "title": "CRYPTOGRAPHY-LAB2"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,10 +218,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "19060c547575f206",
+  "active": "2255e422c8ff8124",
   "lastOpenFiles": [
-    "Temp.md",
     "CRYPTOGRAPHY-LAB2.md",
+    "Temp.md",
     "ВЕЛИКИЙ КОДЕКС ПРОВЕРКИ.md",
     "2COURSE_LABS.md",
     "FIRST_PACK_IN_NUTSHELL.md",

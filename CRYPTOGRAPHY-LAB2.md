@@ -112,5 +112,10 @@ N = r_(k+1) (mod A_(k+1))
 Альтернативный вариант
 t = t_0 + s a_(k+1)
 N = X + (t_0 + s a_(k+1)) A_k
-N = X + t_0 A_k + s A_(k+1)
+N = X + t_0 A_k + s A_(k+1)9
 N = X + t_0 A_k (mod A_(k+1))
+
+- - -
+fi(p q) = fi (p) fi (q) = (p-1)(q-1)
+fi(p) = p - 1
+pq - (q - 1 + p - 1) - 1 = pq - q - p + 1 = q(p-1) - (p-1) = (p-1)(q-1)
