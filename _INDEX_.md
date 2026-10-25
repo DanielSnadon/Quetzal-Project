@@ -1,5 +1,6 @@
 # QUTZAL PROJECT
-Welcome to the future.
+
+*Welcome to the future.*
 
 ![[Pasted image 20260916225606.png]]
 
@@ -8,5 +9,9 @@ Welcome to the future.
 # [[MachineLearning]]
 
 # [[DataBases]]
+
+# [[Cryptography]]
+
+# [[ComputerGraphics]]
 
 # [[2COURSE_LABS]]
